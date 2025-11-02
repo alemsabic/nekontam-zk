@@ -1,4 +1,4 @@
-# ale.ms – Zettelkasten
+# NE KONTAM – Rječnik sarajevskog žargona
 
 > **Füge Deiner Intelligenz eine Intelligenz hinzu.**
 
