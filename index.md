@@ -12,7 +12,7 @@ title: NE KONTAM – Rječnik sarajevskog žargona
 
 ## Struktura | Struktur
 
-### 🇧🇦 [[bs/|Bosanski pojmovi]]
+### [[bs/|Bosanski pojmovi]]
 
 Sarajevski sleng, žargon i umgangssprache sa njemačkim prevodima.
 
@@ -22,7 +22,7 @@ Sarajevski sleng, žargon i umgangssprache sa njemačkim prevodima.
 - [[bs/bananko|bananko]] - penis (slang)
 - ... i više
 
-### 🇩🇪 [[de/|Deutsche Begriffe]]
+### [[de/|Deutsche Begriffe]]
 
 Deutsche Umgangssprache und Slang mit bosnischen Übersetzungen.
 
